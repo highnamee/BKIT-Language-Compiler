@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="569f7f81-fca9-442a-8765-91f2b7fe5994" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="cc459873-f58e-4f8a-92f3-6d3e716a5a5b" />
+  <component name="ProjectId" id="1iYN0dDMPWnw48tPtcIp8NfTY1r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="569f7f81-fca9-442a-8765-91f2b7fe5994" name="Default Changelist" comment="" />
+      <created>1602080343922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602080343922</updated>
+      <workItem from="1602080345000" duration="4555000" />
+      <workItem from="1602133078958" duration="2095000" />
+      <workItem from="1602136759638" duration="601000" />
+      <workItem from="1602138096057" duration="1052000" />
+      <workItem from="1602346786997" duration="8154000" />
+      <workItem from="1602600872777" duration="442000" />
+      <workItem from="1602664186184" duration="706000" />
+      <workItem from="1602688919313" duration="4445000" />
+      <workItem from="1602771924709" duration="11984000" />
+      <workItem from="1602833046733" duration="10726000" />
+      <workItem from="1602991685719" duration="10595000" />
+      <workItem from="1603037082476" duration="14000" />
+      <workItem from="1603037184753" duration="1712000" />
+      <workItem from="1603075788593" duration="284000" />
+      <workItem from="1603121193652" duration="17000" />
+      <workItem from="1603121751920" duration="3272000" />
+      <workItem from="1603161370897" duration="1559000" />
+      <workItem from="1603184697725" duration="42000" />
+      <workItem from="1603186386751" duration="2031000" />
+      <workItem from="1603189468884" duration="1405000" />
+      <workItem from="1603197349893" duration="2000" />
+      <workItem from="1603199663465" duration="102000" />
+      <workItem from="1603200454334" duration="439000" />
+      <workItem from="1603203322012" duration="109000" />
+      <workItem from="1604935823413" duration="302000" />
+      <workItem from="1605013521922" duration="20000" />
+      <workItem from="1605013833406" duration="274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="300" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603123200832">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="300" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1603123200832" />
+    <state x="538" y="312" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602994480236">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="538" y="312" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1602994480236" />
+  </component>
+</project>
