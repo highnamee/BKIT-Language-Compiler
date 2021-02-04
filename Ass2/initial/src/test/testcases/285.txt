@@ -1,0 +1,9 @@
+
+        Var: a,b[1],c[1][2];
+        Function: foo
+        Body:
+           Var: d;
+           a = d = 1810198;
+           Return ;
+        EndBody.
+        

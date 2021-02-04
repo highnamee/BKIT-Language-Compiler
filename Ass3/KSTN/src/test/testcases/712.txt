@@ -1,0 +1,29 @@
+
+            Function: main
+            Body:
+                Var: x[10];
+                Var: iter;
+                For(iter = 0, iter < 10, iter + 1) Do
+                    x[iter] = float_of_string(read());
+                EndFor.
+                bubbleSort(x);
+            EndBody.
+            Function: bubbleSort
+                Parameter: x[10]
+                Body:
+                    Var: iter, innerIter;
+                    For(iter = 0, iter < 10, iter + 1) Do
+                        For(innerIter = iter, innerIter < 10, innerIter + 1) Do
+                            If x[iter] >. x[innerIter] Then
+                                Var: temp;
+                                temp = x[iter];
+                                x[iter] = x[innerIter];
+                                x[innerIter] = temp;
+                            EndIf.
+                        EndFor.
+                    EndFor.
+                    For(iter = 0, iter < 10, iter + 1) Do
+                        printStr(string_of_float(x[iter]));
+                    EndFor.
+                EndBody.
+        

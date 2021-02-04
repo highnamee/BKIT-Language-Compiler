@@ -1,0 +1,8 @@
+Var: x;
+                Var: y = True;
+                Function: foo
+                    Body:
+                    EndBody.
+                Function: main 
+                    Body:
+                    EndBody.

@@ -1,0 +1,6 @@
+
+                Var: x = 0xA, y = 0o10;
+                Function: main
+                    Body:
+                        print(string_of_int(x*y));
+                    EndBody.

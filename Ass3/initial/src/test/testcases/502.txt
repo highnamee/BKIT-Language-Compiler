@@ -1,0 +1,10 @@
+
+                Function: main 
+                Body:
+                    Var: i;
+                    While (i <. 50.0) Do
+                        Break;
+                    EndWhile. 
+                    Continue;
+                EndBody.
+                

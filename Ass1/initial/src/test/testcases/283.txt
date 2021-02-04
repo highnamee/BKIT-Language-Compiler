@@ -1,0 +1,16 @@
+
+        ** This is a 
+        multiline
+        comment
+        ** 
+        Function: main
+        Body:
+            While True Do
+                Do
+                    If i = 1 Then
+                        ** nothing **
+                    EndIf.
+                While True EndDo.
+            EndWhile.
+        EndBody.
+        

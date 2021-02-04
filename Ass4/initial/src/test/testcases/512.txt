@@ -1,0 +1,6 @@
+
+                Var: x = 2, y = 3;
+                Function: main
+                    Body:
+                        print(string_of_int(13%3 + -4 - y*x));
+                    EndBody.

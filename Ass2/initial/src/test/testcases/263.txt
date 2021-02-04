@@ -1,0 +1,9 @@
+
+        Function: main
+        Body:
+            blu = 123 * 23 - 123 - -.--.- "dads";
+            While (print(blu[123]) = 123, i < 10, 10)
+                test();
+            EndWhile.
+        EndBody.
+        

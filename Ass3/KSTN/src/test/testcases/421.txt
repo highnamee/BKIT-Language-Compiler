@@ -1,0 +1,8 @@
+
+                Var: x = "Hana";
+                Function: main
+                    Parameter: y
+                    Body:
+                        x = y;
+                        y = 5.0;
+                    EndBody.

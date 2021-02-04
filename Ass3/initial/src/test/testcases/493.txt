@@ -1,0 +1,14 @@
+
+                Function: main
+                Parameter: i
+                Body:
+                    Var: a;
+                    For (i = 10, a >. 2.0,0) Do
+                        If a =/= 2. Then
+                            Return 1;
+                        EndIf.
+                        Break;
+                    EndFor.
+                    Return a;
+                EndBody.
+                

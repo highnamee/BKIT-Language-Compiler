@@ -1,0 +1,6 @@
+If (i_am_hand_some == True) Then 
+ killme();
+ ElseIf (i_am_hand_some != notSo) Then 
+ makeUp();
+ Else eatMore();
+ EndIf.

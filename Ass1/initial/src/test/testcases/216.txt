@@ -1,0 +1,12 @@
+
+        Function: foo
+            Body:
+                Var: i = 0;
+                Do
+                    a[i] = b +. 1.0;
+                    i = i + 1;
+                    Break;
+                    Continue;
+                While (i < 5) 
+                EndDo. 
+            EndBody.

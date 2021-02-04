@@ -1,0 +1,6 @@
+
+        Var: x = 5, y[3][3], z = "Hello";
+        x = 6;
+        Function: foo
+            Body:
+            EndBody.

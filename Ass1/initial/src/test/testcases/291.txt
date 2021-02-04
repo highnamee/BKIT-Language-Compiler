@@ -1,0 +1,6 @@
+ Function: foo
+        Body:
+            x = (1 + f() * 2 + arr[3])[4] * 5 \ 6;
+            Return 0;
+        EndBody.
+        

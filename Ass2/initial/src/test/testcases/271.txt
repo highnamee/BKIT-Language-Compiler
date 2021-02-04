@@ -1,0 +1,11 @@
+
+        ** Hana **
+        Function: main
+        Parameter: array[size]
+        Body:
+            While i < 5 Do
+                ** nothing **
+            EndWhile.
+        EndBody.
+        ** **
+        

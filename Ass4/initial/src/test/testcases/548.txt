@@ -1,0 +1,11 @@
+
+                Function: main
+                    Body:
+                        print(string_of_int(foo(5)));
+                    EndBody.
+                Function: foo
+                    Parameter: t
+                    Body:
+                        t = 4;
+                        Return t;
+                    EndBody.

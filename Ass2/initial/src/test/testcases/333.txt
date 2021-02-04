@@ -1,0 +1,4 @@
+Function: foo
+                    Body: 
+                        x = a[!-2 * 3 + b[1]] ;
+                    EndBody.

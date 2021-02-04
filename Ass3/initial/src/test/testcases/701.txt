@@ -1,0 +1,11 @@
+ 
+                    Function: foo
+                        Parameter: x[1], y[1]
+                        Body: 
+                        EndBody.
+                    Function: main
+                        Body: 
+                            Var: x[1];
+                            foo(x, {1});
+                        EndBody.
+                   

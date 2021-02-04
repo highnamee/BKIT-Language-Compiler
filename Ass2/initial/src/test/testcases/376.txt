@@ -1,0 +1,8 @@
+
+        Function: test
+        Parameter: str
+        Body:
+            l = split(str, " ");
+            If !l Then print("empty string"); EndIf.
+            Return array(l);
+        EndBody.

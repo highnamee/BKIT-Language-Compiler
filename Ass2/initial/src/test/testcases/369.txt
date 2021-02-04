@@ -1,0 +1,10 @@
+
+        Function: foo
+            Body:
+                For (i=0, 1, 1) Do
+                    x = y + 1;
+                EndFor.
+                For (j=1, True, foo()) Do
+                    y = x + 1;
+                EndFor.
+            EndBody.

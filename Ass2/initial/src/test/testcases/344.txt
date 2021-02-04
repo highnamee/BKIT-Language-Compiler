@@ -1,0 +1,11 @@
+
+        Function: foo
+            Body:
+                If isEqual(a,b) Then
+                    Var: c; 
+                    c = a - b;
+                Else
+                    Var: d[4][5] = {1,2,3};
+                    d[2][3] = a + b;
+                EndIf.
+            EndBody.

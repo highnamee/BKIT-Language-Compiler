@@ -1,0 +1,15 @@
+
+        Function: f
+            Parameter: a, b
+            Body:
+                If int_of_float(b -. 100e1) < 1 Then
+                    f(1000, b -. 1.0);
+                EndIf.
+                Return a;
+            EndBody.
+
+        Function: main
+            Body:
+            f(1,1.0);
+            EndBody.
+        

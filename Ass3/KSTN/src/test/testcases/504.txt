@@ -1,0 +1,14 @@
+
+                Function: main 
+                Body:
+                    Var: i;
+                    While (i < 50) Do
+                        For (i = 0, i <= 10, i + 1) Do 
+                            If True Then 
+                                Break;
+                            EndIf.
+                        EndFor.
+                    EndWhile. 
+                    Continue;
+                EndBody.
+                

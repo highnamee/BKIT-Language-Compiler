@@ -1,0 +1,14 @@
+
+        ** this is a comment **
+        Function: foo
+        Body:
+            Var: a,b[1],c[1][2];
+            If i == 1810198 Then
+            Else
+                writeln(i);
+            ElseIf i == 1810 Then
+                Break;
+            EndIf.
+            Return 0;
+        EndBody.
+        

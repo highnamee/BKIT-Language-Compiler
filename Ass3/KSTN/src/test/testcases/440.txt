@@ -1,0 +1,7 @@
+
+                Var: x, y = 1;
+                Function: main
+                    Body:
+                        x = 2 + y + 3.0;
+                    EndBody.
+                

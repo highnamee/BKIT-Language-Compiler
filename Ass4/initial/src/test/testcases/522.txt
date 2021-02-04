@@ -1,0 +1,13 @@
+
+                Function: main
+                    Body:
+                        Var: i = 0.0;
+                        While (i <. 4.0) Do
+                            print(string_of_float(i));
+                            i = i +. 1.0;
+                        EndWhile. 
+                        While (i <. 4.0) Do
+                            print(string_of_float(i));
+                            i = i +. 1.0;
+                        EndWhile.
+                    EndBody.

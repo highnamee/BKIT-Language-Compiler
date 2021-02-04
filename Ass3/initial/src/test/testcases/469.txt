@@ -1,0 +1,9 @@
+
+                Var: main;
+                Function: mAIN
+                Body:
+                    Var: i, x;
+                    While (i <. 50.0) Do
+                    EndWhile. 
+                EndBody.
+                

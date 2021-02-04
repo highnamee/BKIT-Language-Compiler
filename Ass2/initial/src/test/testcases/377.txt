@@ -1,0 +1,12 @@
+
+        Function: square
+        Parameter: num
+        Body:
+            rand();
+            sleep(random(randint(max) % int(1e10)));
+            Return num * num;
+        EndBody.
+        Function: main
+        Body:
+            print(square(10));
+        EndBody.

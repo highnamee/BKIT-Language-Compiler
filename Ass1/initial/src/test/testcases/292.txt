@@ -1,0 +1,6 @@
+ Function: foo
+        Body:
+            array[[2]] = 3; 
+            Return 0;
+        EndBody.
+        

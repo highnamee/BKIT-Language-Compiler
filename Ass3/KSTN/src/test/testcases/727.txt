@@ -1,0 +1,8 @@
+                    
+                    Function: main
+                        Parameter: x, y, z, t[3]
+                        Body:                        
+                            z = x +. t[x];
+                            Return;
+                        EndBody.   
+                

@@ -1,0 +1,10 @@
+ Function: main
+                    Parameter: x, y
+                    Body: 
+                        If x > 5 Then
+                            Return;
+                        ElseIf y > 3 Then 
+                        Else
+                        EndIf.
+                    EndBody.
+                

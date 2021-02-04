@@ -1,0 +1,12 @@
+ Function: main
+                    Parameter: i
+                    Body: 
+                        For (i = 5, i < 10, 1) Do 
+                            If i == 3 Then
+                                Break;
+                            Else
+                                Continue;
+                            EndIf.
+                        EndFor.
+                    EndBody.
+                

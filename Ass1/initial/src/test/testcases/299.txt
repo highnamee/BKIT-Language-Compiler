@@ -1,0 +1,9 @@
+Function: fact
+                Body:
+                    For (i = 1, i < 10, 1) Do
+                        If i == 5 Then
+                            Break ;
+                        EndIf.
+                    EndFor.
+                EndBody.
+                

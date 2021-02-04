@@ -1,0 +1,13 @@
+
+                Var: x = 3.0, y;
+                Function: main
+                    Body:
+                        If bool_of_string("True") Then 
+                            Var: x;
+                            x = 2;
+                            Return x;
+                        EndIf.
+                        y = 1.0;
+                        Return y;
+                    EndBody.
+                

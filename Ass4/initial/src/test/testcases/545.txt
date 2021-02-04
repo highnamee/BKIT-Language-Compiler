@@ -1,0 +1,13 @@
+
+                Function: main
+                    Body:
+                        Var: i = 0;
+                        While (i < 4) Do
+                            Var: value = 2;
+                            i = i + 1;
+                            If i == 2 Then
+                                Continue;
+                            EndIf.
+                            print(string_of_int(value));
+                        EndWhile.
+                    EndBody.

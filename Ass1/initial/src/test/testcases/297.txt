@@ -1,0 +1,7 @@
+
+        Var: a = {1,2,{2};
+        Function: foo
+        Body:
+        ** nothing **
+        EndBody.
+        

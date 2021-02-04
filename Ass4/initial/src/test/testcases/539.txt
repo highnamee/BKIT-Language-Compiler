@@ -1,0 +1,15 @@
+ Var: x = 110;
+
+                    Function: foo 
+                    Body:
+                        x = 120;
+                        Return True;
+                    EndBody.
+        
+                    Function: main
+                    Body: 
+                        If True && foo() Then 
+                        EndIf.
+                        print(string_of_int(x));
+                    EndBody.
+                    

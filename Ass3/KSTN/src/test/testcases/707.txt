@@ -1,0 +1,15 @@
+
+            Function: main
+            Body:
+                Var: a[2], b[2] = {"a", "b"};
+                f(a)[0] = b[1];
+                Return 1;
+            EndBody.
+
+            Function: f
+            Parameter: a[2]
+            Body:
+                Return a;
+            EndBody.
+
+        

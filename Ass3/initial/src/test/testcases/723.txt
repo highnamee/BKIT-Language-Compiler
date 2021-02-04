@@ -1,0 +1,10 @@
+
+            Function: main
+                Parameter: k
+                Body:
+                    Var: x;
+                    If main(1) Then
+                        x = main(True);
+                    EndIf.
+                EndBody.
+        

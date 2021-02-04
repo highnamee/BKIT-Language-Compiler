@@ -1,0 +1,9 @@
+
+            Var: x, y, z;
+            Function: main
+                Body:        
+                    y =  int_of_float(x) + 1;
+                    x = z;
+                    z = 1.0;
+                EndBody.
+        

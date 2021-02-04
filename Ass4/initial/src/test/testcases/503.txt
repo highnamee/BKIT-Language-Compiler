@@ -1,0 +1,9 @@
+
+                Var: x = 2;
+                Function: y  
+                    Body:
+                        Return x;
+                    EndBody.
+                Function: main
+                    Body:
+                    EndBody.

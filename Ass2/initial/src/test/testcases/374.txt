@@ -1,0 +1,15 @@
+
+        Function: test
+        Body:
+            While True Do
+                Var: arr;
+                s = input("Enter a string");
+                If !s Then Break; EndIf.
+                arr = split(s, " ");
+                operation = arr[0];
+                amount = int_of_string(operation);
+                If operation == "A" Then
+                    amount = amount + 10;
+                EndIf.
+            EndWhile.
+        EndBody.

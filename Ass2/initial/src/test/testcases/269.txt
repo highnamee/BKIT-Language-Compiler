@@ -1,0 +1,12 @@
+
+        ** Hana **
+        Function: foo
+        Parameter: arr[1 + 2 * 3]
+        Body:
+            While True Do
+                ** nothing **
+            EndWhile.
+            Return ;
+        EndBody.
+        ** **
+        

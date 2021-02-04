@@ -1,0 +1,10 @@
+
+        Var: x;
+        Function: fact
+            Parameter: n 
+            Body:
+                If n == 0 Then Return 1; 
+                ElseIf n>2 Then Return n * fact (n - 1); 
+                ElseIf n>20 Then Return n * fact (n - 1); 
+                EndIf.
+            EndBody.

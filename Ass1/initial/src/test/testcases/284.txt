@@ -1,0 +1,10 @@
+
+        Function: main
+        Body:
+            Var: x = 1810.340, y = 0.;
+            While (x =/= y) Do
+                x = x -. 10;
+                y = y +. 10;
+            EndWhile.
+        EndBody.
+        

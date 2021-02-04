@@ -1,0 +1,5 @@
+Function: fact
+                Body:
+                    Return a ;
+                EndBody.
+                

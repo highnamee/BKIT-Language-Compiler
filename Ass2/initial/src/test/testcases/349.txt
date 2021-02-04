@@ -1,0 +1,9 @@
+
+        Function: foo
+            Body:
+                While foo() =/= goo() Do
+                    While foo() || goo() Do
+                        x = y;
+                    EndWhile. 
+                EndWhile.  
+            EndBody.

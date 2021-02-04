@@ -1,0 +1,8 @@
+
+        Function: foo
+            Body:
+                If True Then 
+                    While True Do
+                    EndWhile.
+                EndIf.
+            EndBody.

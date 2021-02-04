@@ -1,0 +1,7 @@
+ Function: main
+                    Parameter: x[2][2]
+                    Body: 
+                        Var: n;
+                        x[2-3][n] = 5;
+                    EndBody.
+                

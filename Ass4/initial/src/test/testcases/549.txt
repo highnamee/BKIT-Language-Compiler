@@ -1,0 +1,8 @@
+
+                Var: x[1] = {3.5}, y[1] = {True}, z[1] = {"Hello"};
+                Function: main
+                    Body:
+                        print(string_of_float(x[0]));
+                        print(string_of_bool(y[0]));
+                        print(z[0]);
+                    EndBody.

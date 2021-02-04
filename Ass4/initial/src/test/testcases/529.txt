@@ -1,0 +1,8 @@
+
+                Function: main
+                    Body:
+                        Var: i = 0.0;
+                        For (i = 6.0, i >. 0.0, -.2.0) Do 
+                            print(string_of_float(i));
+                        EndFor.
+                    EndBody.

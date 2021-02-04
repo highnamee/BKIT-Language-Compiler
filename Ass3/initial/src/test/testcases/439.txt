@@ -1,0 +1,11 @@
+
+                Var: x[1][1], y;
+                Function: main
+                    Body:
+                        x[foo(y)][0] = 2;
+                    EndBody.
+                Function: foo
+                    Parameter: t
+                    Body:
+                    EndBody.
+                

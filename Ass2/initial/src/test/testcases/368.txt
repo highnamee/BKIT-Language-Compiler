@@ -1,0 +1,8 @@
+
+        Function: foo
+            Body:
+                For (i=0, 1, 1) Do
+                    For (j=1, True, foo()) Do
+                    EndFor.
+                EndFor.
+            EndBody.

@@ -1,0 +1,11 @@
+ Function: main
+                    Body: 
+                        Var: x, i;
+                        Do 
+                            If i == 11 Then
+                                Return 1;
+                            EndIf.
+                        While i > 5
+                        EndDo.
+                    EndBody.
+                

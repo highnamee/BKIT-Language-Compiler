@@ -1,0 +1,12 @@
+
+                Function: main
+                    Body:
+                        Var: x[2] = {1,2};
+                        foo(x);
+                        print(string_of_int(x[0]));
+                    EndBody.
+                Function: foo
+                    Parameter: t[2]
+                    Body:
+                        t[0] = 10;
+                    EndBody.

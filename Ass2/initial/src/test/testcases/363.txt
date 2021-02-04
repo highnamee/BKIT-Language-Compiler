@@ -1,0 +1,5 @@
+
+        Function: foo
+            Body:
+                a[5][7] = foo(foo(x,y) \. foo(x+y, x-y));
+            EndBody.

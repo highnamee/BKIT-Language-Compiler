@@ -1,0 +1,11 @@
+
+                Function: foo
+                    Body:
+                        Return "hana";
+                    EndBody.
+                ** Comment cho vui ** ** Hihi**
+                Function: main
+                    Body:
+                        foo()[2] = 3;
+                    EndBody.
+                

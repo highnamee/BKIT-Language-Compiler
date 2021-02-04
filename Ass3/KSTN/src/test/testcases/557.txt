@@ -1,0 +1,9 @@
+ Function: main
+                    Body: 
+                        If True Then
+                            Return 5;
+                        Else
+                        EndIf.
+                        Return 6;
+                    EndBody.
+                

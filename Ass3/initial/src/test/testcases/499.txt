@@ -1,0 +1,19 @@
+
+                Var: x[2];
+
+                Function: main
+                Body:
+                    Var: a[2] = {1,2};
+                    a = foo();
+                EndBody.
+
+                Function: foo
+                Body:
+                    Return x;
+                EndBody.
+
+                Function: goo
+                Body:
+                    x[0] = "Hana";
+                EndBody.
+                

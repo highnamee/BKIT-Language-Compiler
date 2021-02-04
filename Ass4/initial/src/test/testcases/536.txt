@@ -1,0 +1,25 @@
+
+            Function: main
+            Body:
+                Var: x[5] = {1, 5, 2, 7, 4};
+                bubbleSort(x);
+            EndBody.
+            Function: bubbleSort
+                Parameter: x[5]
+                Body:
+                    Var: iter = 0, innerIter = 0;
+                    For(iter = 0, iter < 5, 1) Do
+                        For(innerIter = iter, innerIter < 5, 1) Do
+                            If x[iter] > x[innerIter] Then
+                                Var: temp = 0;
+                                temp = x[iter];
+                                x[iter] = x[innerIter];
+                                x[innerIter] = temp;
+                            EndIf.
+                        EndFor.
+                    EndFor.
+                    For(iter = 0, iter < 5, 1) Do
+                        print(string_of_int(x[iter]));
+                    EndFor.
+                EndBody.
+        

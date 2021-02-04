@@ -1,0 +1,7 @@
+
+        Function: tEEEEEEEEEEEEEE
+        Body:
+            While rand() Do
+                print(rand());
+            EndWhile.
+        EndBody.

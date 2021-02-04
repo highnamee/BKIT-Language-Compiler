@@ -1,0 +1,5 @@
+
+                Function: main
+                    Body:
+                        print(string_of_bool(False && True || False));
+                    EndBody.

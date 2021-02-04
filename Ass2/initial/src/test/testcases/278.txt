@@ -1,0 +1,8 @@
+Function: foo
+        Parameter: a , v , asd[5][12][4]
+        Body:
+            If True Then a = 1;
+            ElseIf False Then a = 2;
+            Else (a == v) Then a = v;
+            EndIf.
+        EndBody.

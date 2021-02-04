@@ -1,0 +1,7 @@
+
+                Function: main
+                Parameter: main
+                Body:
+                    main(2);
+                EndBody.
+                

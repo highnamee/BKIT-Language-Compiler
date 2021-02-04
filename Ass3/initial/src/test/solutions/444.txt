@@ -1,0 +1,1 @@
+Type Cannot Be Inferred: Assign(Id(a),CallExpr(Id(main),[ArrayLiteral(IntLiteral(1),IntLiteral(2),IntLiteral(3))]))

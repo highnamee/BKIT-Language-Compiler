@@ -1,0 +1,11 @@
+ Function: main
+                    Body: 
+                        Var: x = 0;
+                        For (x = 0, x < 5, 1) Do 
+                            If x == 2 Then
+                                Break;
+                            EndIf.
+                            print(string_of_int(x));
+                        EndFor.
+                    EndBody.
+                    

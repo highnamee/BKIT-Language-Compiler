@@ -1,0 +1,12 @@
+
+        Function: max
+        Parameter: array[10]
+        Body:
+            Return array[random(1, 9, False)];
+        EndBody.
+        Function: main
+        Body:
+            print(max({1,8,1,0,1,9,8}));
+            Return ;
+        EndBody.
+        

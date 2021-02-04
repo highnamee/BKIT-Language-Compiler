@@ -1,0 +1,11 @@
+
+        Function: foo
+            Body:
+                Var: i = 0, a[6][5];
+                Do
+                    a[i][1] = a[3][4] + 5 \ (2 * 3) -  a[6][b[1]];
+                    i = i + 1;
+                While (i < 5) 
+                EndDo. 
+                Return a[4][2];
+            EndBody.

@@ -1,0 +1,11 @@
+
+                Function: main
+                    Parameter: x,y,z
+                    Body: 
+                        y = x + foo(x) + foo(30.07);
+                    EndBody.
+                Function: foo
+                    Parameter: x
+                    Body:
+                    EndBody.
+                

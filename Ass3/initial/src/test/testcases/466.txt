@@ -1,0 +1,19 @@
+
+                Function: main 
+                Body:
+                    Var: i, x;
+                    Do
+                        i = i *. 2.0;
+                        If True Then 
+                            Var: i;
+                            If True Then 
+                                i = 5;
+                                x = 5;
+                                Return i;
+                            EndIf.
+                        EndIf.
+                    While (i <. 50.0) 
+                    EndDo. 
+                    Return x;
+                EndBody.
+                

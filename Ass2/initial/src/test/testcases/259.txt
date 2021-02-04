@@ -1,0 +1,5 @@
+Function: foo 
+                    Parameter: n, a[3][4]
+                    Body: 
+                        x = a[!-2 * 3 + b[1]]
+                    EndBody.

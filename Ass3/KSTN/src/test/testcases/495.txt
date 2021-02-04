@@ -1,0 +1,19 @@
+
+                Function: foo
+                    Parameter: x,y
+                    Body:
+                        Var: z,k[1][2];
+                        If z ==  1 Then 
+                            Return 1;
+                        Else 
+                            x = 1 + main(foo(0,0));
+                        EndIf.
+                    EndBody.
+
+                Function: main
+                Parameter: a
+                Body:
+                    a = foo(1,1);
+                    Return 1;
+                EndBody.
+                

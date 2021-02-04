@@ -1,0 +1,10 @@
+ Function: foo
+        Parameter: x, a[2] , arr[1][2][3]
+        Body:
+            For (i = 0, i < 10, 2) Do
+                If (x) Then Break; EndIf.
+            EndFor.
+            If (a) Then Break; EndIf.
+            Return 0;
+        EndBody.
+        

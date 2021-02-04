@@ -1,0 +1,13 @@
+
+                Function: main
+                    Body:
+                        foo(2,2,3);
+                    EndBody.
+                Function: foo
+                    Parameter: x, y, z
+                    Body:
+                        x = 2*3;
+                        print(string_of_int(x));
+                        print(string_of_int(y));
+                        print(string_of_int(z));
+                    EndBody.

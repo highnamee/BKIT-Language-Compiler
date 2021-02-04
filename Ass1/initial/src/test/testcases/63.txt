@@ -1,0 +1,1 @@
+Var:a,b=123;Function:foo123 Parameter:a[99]Body:Var:x;abc=321;WhileTrueDoEndWhile.If123ThenFor(abc=999,(13||31)&&True-False,f())DoVar:def;EndFor.ElseVar:ghi;EndIf.EndBody.

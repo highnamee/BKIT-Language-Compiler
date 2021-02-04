@@ -1,0 +1,10 @@
+
+                Var: x = 2;
+                Function: main
+                    Body:
+                        foo();
+                        x = foo();
+                    EndBody.
+                Function: foo
+                    Body:
+                    EndBody.

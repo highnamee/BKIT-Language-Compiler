@@ -1,0 +1,8 @@
+
+                Var: check = True;
+                Var: y[2] = {1,2};
+                Var: x = 4;
+                Function: main
+                    Body:
+                        print(string_of_int(y[0]));
+                    EndBody.

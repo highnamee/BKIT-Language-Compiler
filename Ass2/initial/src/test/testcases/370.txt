@@ -1,0 +1,15 @@
+
+        Function: foo
+            Body:
+                For (i=0, 1, 1) Do
+                    For (j=1, True, foo()) Do
+                        y = x + 1;
+                        Continue;
+                    EndFor.   
+                EndFor.
+                For (j=1, True, foo()) Do
+                    y = x + 1;
+                    Break;
+                EndFor.
+                Return;                
+            EndBody.

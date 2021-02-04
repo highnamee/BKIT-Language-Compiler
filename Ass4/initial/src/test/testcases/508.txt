@@ -1,0 +1,8 @@
+
+                Var: x = 2, y = 3;
+                Function: main
+                    Body:
+                        Var: x = 5;
+                        x = y;
+                        print(string_of_int(x));
+                    EndBody.

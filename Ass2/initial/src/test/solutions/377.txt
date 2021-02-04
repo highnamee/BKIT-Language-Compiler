@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(square)[VarDecl(Id(num))],([][CallStmt(Id(rand),[]),CallStmt(Id(sleep),[CallExpr(Id(random),[BinaryOp(%,CallExpr(Id(randint),[Id(max)]),CallExpr(Id(int),[FloatLiteral(10000000000.0)]))])]),Return(BinaryOp(*,Id(num),Id(num)))])),FuncDecl(Id(main)[],([][CallStmt(Id(print),[CallExpr(Id(square),[IntLiteral(10)])])]))])

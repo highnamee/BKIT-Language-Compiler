@@ -1,0 +1,13 @@
+ Function: main
+                    Body: 
+                        Var: i = 5;
+                        For (i = 1, i < 5, 1) Do
+                            If i == 1 Then 
+                                Break;
+                            Else
+                                Continue;
+                            EndIf.
+                            Return;
+                        EndFor.
+                    EndBody.
+                

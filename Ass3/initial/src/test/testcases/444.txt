@@ -1,0 +1,8 @@
+
+                Function: main
+                    Parameter: a[3]
+                    Body:
+                        a = main({1,2,3});
+                        Return 2;
+                    EndBody.
+                

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36f0e3d8-ac63-4b79-841a-443663ac9685" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="cc459873-f58e-4f8a-92f3-6d3e716a5a5b" />
+  <component name="ProjectId" id="1kBLPFEM4Zme61q2c2KsuYZX8yF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unittests for ASTGenSuite.ASTGenSuite.test_simple_program_20" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="initial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ASTGenSuite.ASTGenSuite.test_simple_program_20&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for ASTGenSuite.ASTGenSuite.test_simple_program_20" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36f0e3d8-ac63-4b79-841a-443663ac9685" name="Default Changelist" comment="" />
+      <created>1605169011761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605169011761</updated>
+      <workItem from="1605169012793" duration="9000" />
+      <workItem from="1605169033014" duration="4049000" />
+      <workItem from="1605289893206" duration="288000" />
+      <workItem from="1605342503607" duration="81000" />
+      <workItem from="1605347334357" duration="227000" />
+      <workItem from="1605378341248" duration="78000" />
+      <workItem from="1605422776883" duration="138000" />
+      <workItem from="1605429381482" duration="14000" />
+      <workItem from="1605429825759" duration="420000" />
+      <workItem from="1605490682528" duration="287000" />
+      <workItem from="1605500130730" duration="46000" />
+      <workItem from="1605503480566" duration="43000" />
+      <workItem from="1605504933085" duration="10000" />
+      <workItem from="1605505134335" duration="56000" />
+      <workItem from="1605506566442" duration="422000" />
+      <workItem from="1605520893938" duration="18000" />
+      <workItem from="1605586680878" duration="63000" />
+      <workItem from="1605600753270" duration="322000" />
+      <workItem from="1605601520813" duration="157000" />
+      <workItem from="1605603503622" duration="63000" />
+      <workItem from="1605604042415" duration="1163000" />
+      <workItem from="1605605273964" duration="33000" />
+      <workItem from="1605605419498" duration="1235000" />
+      <workItem from="1605608933673" duration="960000" />
+      <workItem from="1605613367589" duration="60000" />
+      <workItem from="1605613783761" duration="105000" />
+      <workItem from="1607824670281" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1628" height="277" key="GridCell.Tab.0.bottom" timestamp="1605173903767">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="277" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1605173903767" />
+    <state width="1628" height="277" key="GridCell.Tab.0.center" timestamp="1605173903766">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="277" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1605173903766" />
+    <state width="1628" height="277" key="GridCell.Tab.0.left" timestamp="1605173903766">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="277" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1605173903766" />
+    <state width="1628" height="277" key="GridCell.Tab.0.right" timestamp="1605173903767">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="277" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1605173903767" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/initial$Unittests_for_ASTGenSuite_ASTGenSuite_test_simple_program_20.coverage" NAME="Unittests for ASTGenSuite.ASTGenSuite.test_simple_program_20 Coverage Results" MODIFIED="1605173652891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" />
+  </component>
+</project>

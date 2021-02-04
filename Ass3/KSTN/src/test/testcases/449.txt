@@ -1,0 +1,8 @@
+
+                Var: x[1][2];
+                Function: main
+                    Body:
+                        x[0][1] = 2;
+                        x[0][1] = "Hello";
+                    EndBody.
+                

@@ -1,0 +1,11 @@
+ Function: main
+                    Body: 
+                        Var: i = 5;
+                        If i > 10 Then 
+                            Return;
+                        Else
+                            Return;
+                        EndIf.
+                        i = 5;
+                    EndBody.
+                

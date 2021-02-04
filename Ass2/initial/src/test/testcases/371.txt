@@ -1,0 +1,11 @@
+
+        Function: print
+        Parameter: i
+        Body:
+            print(i);
+        EndBody.
+        Function: main
+        Body:
+            print(i);
+        EndBody.
+        

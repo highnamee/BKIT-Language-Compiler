@@ -1,0 +1,11 @@
+
+        Function: test
+        Body:
+            While True Do
+                s = str(input());
+                If len(s) == 0 Then
+                    Continue;
+                EndIf.
+                arr[arr + i] = append(split(arr, " "));
+            EndWhile.
+        EndBody.

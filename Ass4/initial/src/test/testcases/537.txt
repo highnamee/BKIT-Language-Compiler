@@ -1,0 +1,5 @@
+ Function: main
+                    Body: 
+                        print(string_of_bool(120. =/= 120.));
+                    EndBody.
+                    

@@ -1,0 +1,18 @@
+
+            Function: main
+            Body:
+                Var: a[2], b[2] = {"a", "b"}, c;
+                If True Then 
+                    Return 1;
+                EndIf.         
+                c = f(b, f(a, b))[0];
+                Return c;
+            EndBody.
+
+            Function: f
+            Parameter: a[2], b[2]
+            Body:
+                Return a;
+            EndBody.
+
+        

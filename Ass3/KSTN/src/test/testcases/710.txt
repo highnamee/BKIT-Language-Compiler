@@ -1,0 +1,8 @@
+
+            Function: main
+            Body:
+                Var: a, b, c;     
+                c = int_of_float(10.0);
+                a = float_of_int(10.0);
+            EndBody.
+        

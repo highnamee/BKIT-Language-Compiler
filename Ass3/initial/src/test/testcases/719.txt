@@ -1,0 +1,7 @@
+
+                Function: main
+                Parameter: x
+                Body:
+                    If main(main(5)) Then EndIf. 
+                EndBody.
+                

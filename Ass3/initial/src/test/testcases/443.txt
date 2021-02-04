@@ -1,0 +1,9 @@
+
+                Var: x, y = 1.0, z = True, t = 0o123, m;
+                Function: main
+                    Body:
+                        x = -.2.0 -. y *. 3.0;
+                        m = -.x;
+                        z = m;
+                    EndBody.
+                

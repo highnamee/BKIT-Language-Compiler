@@ -1,0 +1,7 @@
+ Function: main
+                    Parameter: x[2][2]
+                    Body: 
+                        Var: n, y[2][2] = {{1,2},{3,4}};
+                        y[n][n] = x[n][2];
+                    EndBody.
+                

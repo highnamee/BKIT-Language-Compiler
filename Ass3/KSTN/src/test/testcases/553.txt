@@ -1,0 +1,18 @@
+ Function: f1
+                    Body:
+                    EndBody.
+
+                    Function: f2
+                    Body:
+                    EndBody.
+
+                    Function: f3
+                    Body:
+                    EndBody.
+
+                    Function: main
+                    Body: 
+                        f1();
+                        f2();
+                    EndBody.
+                

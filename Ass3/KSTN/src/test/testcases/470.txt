@@ -1,0 +1,11 @@
+
+                Function: foo
+                    Body:
+                        Var: x[2][2];
+                        Return {{1}};
+                    EndBody.
+                Function: main
+                    Body:
+                        foo()[0][0] = 1;
+                    EndBody.
+                

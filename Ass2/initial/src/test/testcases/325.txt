@@ -1,0 +1,9 @@
+
+        Function: foo
+            Body:
+                Do
+                    i = i + 1;
+                    Return;
+                While (i < 5) 
+                EndDo. 
+            EndBody.

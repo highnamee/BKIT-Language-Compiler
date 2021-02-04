@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(test)[],([][For(Id(i),IntLiteral(0),BinaryOp(<,Id(i),Id(max)),Id(i),[],[If(BinaryOp(&&,BinaryOp(==,BinaryOp(%,Id(i),IntLiteral(7)),IntLiteral(0)),BinaryOp(!=,BinaryOp(%,Id(i),IntLiteral(5)),IntLiteral(0))),[],[Assign(Id(arr),BinaryOp(+,Id(arr),ArrayLiteral(IntLiteral(1))))])Else([],[])]),CallStmt(Id(print),[CallExpr(Id(join),[StringLiteral(),Id(arr)])])]))])

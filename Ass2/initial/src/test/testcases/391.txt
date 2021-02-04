@@ -1,0 +1,8 @@
+
+        Function: m
+        Body:
+            f = (a + f(2 + 3, f + 2) * (f)[f((f[0]))[t]])[123] - 123;
+            a[2 + f()] = f(f * k(a[0]));
+            f()[2 + f()[2]] = "dasf" + f(2, 3 - f[2])[2];
+            Continue;
+        EndBody.

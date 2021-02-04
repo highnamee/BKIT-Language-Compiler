@@ -1,0 +1,11 @@
+
+                Function: main
+                    Body:
+                        If foo() Then 
+                            foo();
+                        EndIf.
+                    EndBody.
+                Function: foo
+                    Body:
+                    EndBody.
+                

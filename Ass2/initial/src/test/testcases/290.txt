@@ -1,0 +1,5 @@
+ Function: foo
+        Body:
+            x = 18[10] + 198;
+        EndBody.
+        

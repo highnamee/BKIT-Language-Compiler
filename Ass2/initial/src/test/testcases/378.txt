@@ -1,0 +1,12 @@
+
+        Function: huber
+        Parameter: y, x, fn, theta
+        Body:
+            Var: sum = 0.;
+            sum = mean(abs(y - fn(x)), "mean");
+            If sum <= theta Then
+                Return mean(square(y - fn(x)), "mean") \. 2;
+            Else
+                Return theta * abs(y - fn(x)) - theta * theta \. 2;
+            EndIf.
+        EndBody.

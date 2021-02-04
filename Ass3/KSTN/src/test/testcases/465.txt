@@ -1,0 +1,12 @@
+
+                Function: main
+                    Body:
+                        Var: i, x;
+                        For (i = 1, True, foo(x)) Do 
+                        EndFor.
+                    EndBody.
+                Function: foo
+                    Parameter: x
+                    Body:
+                    EndBody.
+                

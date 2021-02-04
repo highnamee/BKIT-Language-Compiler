@@ -1,0 +1,6 @@
+Var: a,b[1],c[1][2][3];
+        Function: foo
+        Body:
+            func(18)[b[10][19]]=8;
+        EndBody.
+        

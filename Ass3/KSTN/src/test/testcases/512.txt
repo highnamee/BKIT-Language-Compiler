@@ -1,0 +1,11 @@
+
+                Function: goo
+                    Body:
+                        foo();
+                    EndBody.
+                Function: main
+                    Body:
+                    EndBody.
+                Function: foo
+                    Body:
+                    EndBody.

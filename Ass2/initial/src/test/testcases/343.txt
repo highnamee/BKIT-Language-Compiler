@@ -1,0 +1,11 @@
+
+        Function: foo
+            Body:
+                If a+b>c Then 
+                    print("Greater than");
+                ElseIf a+b < c Then
+                    print("Less than");
+                Else
+                    print("Equal");
+                EndIf.
+            EndBody.

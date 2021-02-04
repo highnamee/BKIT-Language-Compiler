@@ -1,0 +1,7 @@
+
+                Var: x;
+                Var: y = 123;
+                Var: x; 
+                Function: main
+                    Body:
+                    EndBody.

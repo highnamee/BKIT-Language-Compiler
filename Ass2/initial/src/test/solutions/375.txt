@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(test)[],([][While(BooleanLiteral(true),[],[Assign(Id(s),CallExpr(Id(str),[CallExpr(Id(input),[])])),If(BinaryOp(==,CallExpr(Id(len),[Id(s)]),IntLiteral(0)),[],[Continue()])Else([],[]),Assign(ArrayCell(Id(arr),[BinaryOp(+,Id(arr),Id(i))]),CallExpr(Id(append),[CallExpr(Id(split),[Id(arr),StringLiteral( )])]))])]))])

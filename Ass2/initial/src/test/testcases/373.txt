@@ -1,0 +1,13 @@
+
+        Function: test
+        Body:
+            For(i = 0, i < max, 1) Do
+                If is_upper(s[i]) Then
+                    d["upper"] = d["upper"] + 1;
+                ElseIf is_lower(get(s, i)) Then
+                    d["lower"] = d["lower"] + 1;
+                Else
+                    Continue;
+                EndIf.
+            EndFor.
+        EndBody.

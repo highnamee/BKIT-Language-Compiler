@@ -1,0 +1,8 @@
+
+        Var: x;
+        ** hihi
+        Function: main 
+            Body:
+                x = 10;
+                fact (x); 
+            EndBody.

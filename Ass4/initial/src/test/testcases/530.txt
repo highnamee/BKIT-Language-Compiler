@@ -1,0 +1,15 @@
+
+                Function: main
+                    Body:
+                        Var: x = 3;
+                        If x == 1 Then 
+                            print("1");
+                        ElseIf x == 2 Then
+                            print("2");
+                        ElseIf x == 3 Then
+                            print("3");
+                        Else
+                            print("Do_not_know");
+                        EndIf.
+                        print(" Out");
+                    EndBody.

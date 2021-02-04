@@ -1,0 +1,11 @@
+
+        Function: foo
+            Body:
+                Do
+                    Do
+                        x = y;
+                    While foo() || goo()
+                    EndDo.
+                While foo() =/= goo() 
+                EndDo.  
+            EndBody.

@@ -1,0 +1,8 @@
+                    
+                    Function: main
+                    Parameter: x, y
+                    Body:                        
+                        x = main(1, 2);
+                        Return;
+                    EndBody.   
+                

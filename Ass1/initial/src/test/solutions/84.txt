@@ -1,0 +1,1 @@
+This is a string: \r,12.0,x1230o123,<EOF>

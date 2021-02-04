@@ -1,0 +1,9 @@
+
+            Function: foo
+            Body:
+            If True Then 
+                foo();
+            ElseIf False Then
+                foo();
+            EndIf.
+            EndBody.

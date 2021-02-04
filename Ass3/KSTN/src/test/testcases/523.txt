@@ -1,0 +1,9 @@
+
+                Var: x[2][3], y, z;
+                Function: main
+                    Body:
+                        y = x[-z][4 + 5 - z] + 2;
+                        x[z * 7][z % 2] = 2;
+                        x[z \ 0][z-7] = 1;
+                        x[z][1\0] = 1;
+                    EndBody.

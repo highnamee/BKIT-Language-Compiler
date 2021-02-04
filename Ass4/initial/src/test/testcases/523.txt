@@ -1,0 +1,11 @@
+
+                Function: main
+                    Body:
+                        Var: i = 0.0, value = 0;
+                        While (i <. 4.0) Do
+                            Var: value = 2;
+                            print(string_of_int(value));
+                            i = i +. 1.0;
+                        EndWhile.
+                        print(string_of_int(value));
+                    EndBody.

@@ -1,0 +1,9 @@
+
+                Function: main
+                    Body:
+                        Var: x = 1, y = 1.0;
+                        x = -(-1 - 2);
+                        y = -.1.0 *. 7.0;
+                        print(string_of_int(x));
+                        print(string_of_float(y));
+                    EndBody.

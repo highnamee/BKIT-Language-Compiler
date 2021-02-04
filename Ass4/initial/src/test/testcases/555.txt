@@ -1,0 +1,28 @@
+
+            Function: isPrimeNumber
+            Parameter: x
+            Body:   
+                If ((x==2) || (x==3)) Then
+                    Return True;
+                Else
+                    Var: i=1, mid =0;
+                    mid = x\2+1;
+                    For(i=2, i<mid, 1) Do
+                        If(x%i==0) Then
+                            Return False;
+                        EndIf.
+                    EndFor.
+                EndIf.
+                Return True;
+            EndBody.
+            Function: main
+            Body:  
+                Var: x=0;
+                For(x=2, x<20, 1)Do
+                    If(isPrimeNumber(x)) Then
+                        print(string_of_int(x));
+                        print("\n");
+                    EndIf.
+                EndFor.
+            EndBody.
+        

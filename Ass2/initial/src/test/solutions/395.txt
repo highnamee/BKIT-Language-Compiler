@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(tEEEEEEEEEEEEEE)[],([][While(CallExpr(Id(rand),[]),[],[CallStmt(Id(print),[CallExpr(Id(rand),[])])])]))])

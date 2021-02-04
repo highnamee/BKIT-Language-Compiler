@@ -1,0 +1,1 @@
+Var,:,a,,,b,=,123,;,Function,:,foo123,Parameter,:,a,[,99,],Body,:,Var,:,x,;,abc,=,321,;,While,True,Do,EndWhile,.,If,123,Then,For,(,abc,=,999,,,(,13,||,31,),&&,True,-,False,,,f,(,),),Do,Var,:,def,;,EndFor,.,Else,Var,:,ghi,;,EndIf,.,EndBody,.,<EOF>

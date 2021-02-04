@@ -1,0 +1,5 @@
+ Var: x[1][2] = {{0x20,2.}};
+                    Function: main
+                    Body:
+                    EndBody.
+                

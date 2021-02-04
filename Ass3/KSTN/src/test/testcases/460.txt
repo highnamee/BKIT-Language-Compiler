@@ -1,0 +1,8 @@
+
+                Function: main
+                    Body:
+                        Var: i;
+                        For (i = 1, i, i + 1) Do 
+                        EndFor.
+                    EndBody.
+                

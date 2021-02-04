@@ -1,0 +1,11 @@
+Function: foo 
+                    Parameter: n, a[3][4]
+                    Body: 
+                        int_of_float(12);
+                        While float_to_int(0) Do
+                            int_of_string();
+                            string_of_int();
+                            float_of_string();
+                            string_of_float()  ;
+                        EndWhile.
+                    EndBody.

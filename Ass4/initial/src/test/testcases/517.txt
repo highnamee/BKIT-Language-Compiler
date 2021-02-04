@@ -1,0 +1,6 @@
+
+                Var: x = 2.0, y = 3;
+                Function: main
+                    Body:
+                        print(string_of_bool((x >. y) && True || False));
+                    EndBody.

@@ -1,0 +1,20 @@
+
+                Var: x = 3.0, y = 2;
+                Function: main
+                    Body:
+                        If True Then 
+                            x = 12.0e3;
+                        ElseIf False Then
+                            Var: x;
+                            x = -0o3;
+                        ElseIf True Then
+                            Var: x;
+                            x = True && False || True;
+                            If True Then 
+                                Return x;
+                            EndIf.
+                        Else
+                        EndIf.
+                        Return y;
+                    EndBody.
+                

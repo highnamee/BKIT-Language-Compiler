@@ -1,0 +1,11 @@
+ Function: foo
+                    Parameter: x, y
+                    Body:
+                        Return x +. y;
+                    EndBody.
+                    Function: main
+                    Parameter: x, y
+                    Body: 
+                        x = foo(5, 6);
+                    EndBody.
+                

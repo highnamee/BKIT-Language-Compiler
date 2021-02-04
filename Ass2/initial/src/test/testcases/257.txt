@@ -1,0 +1,5 @@
+Function: foo 
+                Parameter: n = 3, a[3][4]
+                Body: 
+                    x = (x+2)[3 - b[2]] % 2 * (2.0 \. 8)
+                EndBody.

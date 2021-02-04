@@ -1,0 +1,12 @@
+
+            Function: main
+            Body:
+                Var: a[2] = {"a", "b"}, b[2] = {"a", "b"}, c = 1;     
+                c = f(a,b);
+            EndBody.
+
+            Function: f
+            Parameter: a[4], b[2]
+            Body:
+            EndBody.
+        

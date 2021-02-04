@@ -1,0 +1,10 @@
+ Function: main
+                    Body: 
+                        Var: x, i;
+                        Do 
+                            x = 1;
+                        While i > 5
+                        EndDo.
+                        Return x;
+                    EndBody.
+                

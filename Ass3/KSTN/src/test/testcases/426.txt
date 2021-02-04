@@ -1,0 +1,10 @@
+
+                Function: main
+                    Body:
+                        foo(2, 3, 4);
+                    EndBody.
+                Function: foo
+                    Parameter: y
+                    Body:
+                        y = 2.3;
+                    EndBody.

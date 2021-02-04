@@ -1,0 +1,12 @@
+
+        ** Hana **
+        Function: main
+        Parameter: 1810[198]
+        Body:
+            While True Do
+                ** nothing **
+            EndWhile.
+            Return ;
+        EndBody.
+        ** **
+        

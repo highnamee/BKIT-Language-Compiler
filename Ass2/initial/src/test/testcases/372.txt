@@ -1,0 +1,10 @@
+
+        Function: test
+        Body:
+            For(i = 0, i < max, i) Do
+                If (i % 7 == 0) && (i % 5 != 0) Then
+                    arr = arr + {1};
+                EndIf.
+            EndFor.
+            print(join("", arr));
+        EndBody.

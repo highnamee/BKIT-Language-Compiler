@@ -1,0 +1,17 @@
+
+                Var: x[1], y;
+                Function: main
+                    Body:
+                        x[foo()] = 2;
+                        x[goo()] = 1;
+                        y = x[foo()] + x[goo()];
+                    EndBody.
+                Function: foo
+                    Body:
+                        Return 15%2;
+                    EndBody.
+                Function: goo
+                    Body:
+                        Return 1.0 =/= 1.00;
+                    EndBody.
+                

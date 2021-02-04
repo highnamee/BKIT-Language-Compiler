@@ -1,0 +1,7 @@
+
+        Var: hihi ;
+        Function: foo
+        Body:
+            Var: array[0X1810198ABCD];
+        EndBody.
+        

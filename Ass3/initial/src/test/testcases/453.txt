@@ -1,0 +1,12 @@
+
+                Var: x = 3.0, y;
+                Function: main
+                    Body:
+                        If True Then 
+                            Var: x;
+                            x = 2;
+                            y = 2;
+                        EndIf.
+                        y = 1.0;
+                    EndBody.
+                

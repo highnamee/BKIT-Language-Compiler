@@ -1,0 +1,6 @@
+
+                Var: x = 2, y = 3;
+                Function: main
+                    Body:
+                        print(string_of_int(1 + 3 - 5 + 1*4 - 4\3));
+                    EndBody.
